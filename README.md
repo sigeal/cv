@@ -1,5 +1,7 @@
 # Curriculum vitae
 
+![Photo CD](https://github.com/sigeal/cv/blob/master/images/cd.jpg)
+
 ## Profil
 Expert en Systèmes d'Information Géographique et en Technologies de l'Information et de la Communication
 
