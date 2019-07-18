@@ -3,9 +3,9 @@
 ![Photo CD](https://github.com/sigeal/cv/blob/master/images/cd.jpg)
 
 ## Profil
-Expert en Systèmes d'Information Géographique et en Technologies de l'Information et de la Communication
+Consultant-Développeur en Systèmes d'Information Géographique
 
-## Expérience Professionnelle
+## Expérience
 
 ### Depuis 1999 :
 Créateur et exploitant de l'entreprise SIGéal  
@@ -17,7 +17,10 @@ Ingénieur dans un bureau d'étude d'ingénierie des déplacements (EGIS, ex-Sce
 - Responsable informatique de l'agence de Bordeaux
 - Correspondant qualité du site de Bordeaux (certification ISO 9000)
 
-## Formation initiale
+## Formation
+
+### 2018 : Université de La Rochelle
+Drone mapping
 
 ### De 1987 à 1990 : Université de Technologie de Compiègne (UTC) :
 Diplôme d'Ingénieur de l'Université de Technologie de Compiègne  
@@ -27,7 +30,7 @@ Diplôme d'Ingénieur de l'Université de Technologie de Compiègne
 Diplôme Universitaire de Technologie  
 - Génie Mécanique et Productique
 
-## Compétences Additionnelles
+## Compétences
 
 ### Informatique et cartographie numérique :
 - Architecture des systèmes d'information et des bases de données spatiales
@@ -55,12 +58,14 @@ Diplôme Universitaire de Technologie
 ## Références Récentes
 
 ### Spécifications et développement d'applications sur Systèmes d'Information Géographiques :
+- Développement d'un service de génération de cartes pdf pour des DICT, sous QGIS, pour la société SOMEI - 2019
 - Spécifications et développement d'une application de cartographie d’enquêtes origine/destination, sous ArcView/MapInfo-Access et QGIS-SQLite, pour de nombreuses agglomérations, en partenariat avec la société Test-SA – 2002-2019
 - Application cartographique de gestion des comptages de trafic routier sous QGIS pour Valence-Romans Déplacement – 2017-2018
 - Développement sous QGIS d’une application de conversion KML vers WLD d’informations de géoréférencement pour Eiffage-Dynae – 2017
 - Spécifications et développement d'une application web de recherche d'itinéraires pour piétons handicapés pour la CASQY / le CEREMH, sous PHP / OpenLayers / MapServer / Postgis – 2011-2014
 
 ### Réalisation d'expertises et d'assistance technique pour la cartographie :
+- Assistance technique pour la mise en oeuvre d'un outil QGIS de suivi d'OPAH, pour Engineering Territoires et Habitat - 2019
 - Assistance technique pour la détermination du potentiel écologique foncier de parcelles appartenant à SNCF Réseau, sous QGIS, pour Améten – 2018
 - Restitution SIG du diagnostic sur l'accessibilité de la voirie, des aménagements et des espaces publics, sous ArcGis, pour plusieurs agglomérations, en partenariat avec la société Agoracité – 2009-2017
 - Assistance technique pour la consolidation SIG des captages d'eau potable et de leurs périmètres de protection, sous ArcGis, pour l'ARS Lorraine – 2009-2010
@@ -85,5 +90,5 @@ Diplôme Universitaire de Technologie
 
 ### Animation de formations :
 - Animation de formations initiation et perfectionnement aux SIG (QGIS, MapInfo, ArcGis, PostGis) pour de nombreuses collectivités et entreprises, en partenariat avec divers organismes de formation – 2004-2019
-- Intervention sur la programmation Python à la Grande École du Numérique d'Aubeterre sur Dronne – 2019
+- Intervention sur la programmation Python objet à la Rural Web Factory d'Aubeterre sur Dronne – 2019
 - Animation du module SIG (MapInfo) dans le cadre de la Licence Professionnelle Urbanisme, Environnement et Géomatique du lycée Dorian (Paris) – 2009-2015
