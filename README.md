@@ -59,7 +59,7 @@ Diplôme Universitaire de Technologie
 
 ### Spécifications et développement d'applications sur Systèmes d'Information Géographiques :
 - Développement d'un service de génération de cartes pdf pour des DICT, sous QGIS, pour la société SOMEI - 2019
-- Spécifications et développement d'une application de cartographie d’enquêtes origine/destination, sous ArcView/MapInfo-Access et QGIS-SQLite, pour de nombreuses agglomérations, en partenariat avec la société Test-SA – 2002-2019
+- Spécifications et développement d'une application de cartographie d’enquêtes origine/destination, sous ArcView/MapInfo-Access et QGIS-SpatiaLite, pour de nombreuses agglomérations, en partenariat avec la société Test-SA – 2002-2019
 - Application cartographique de gestion des comptages de trafic routier sous QGIS pour Valence-Romans Déplacement – 2017-2018
 - Développement sous QGIS d’une application de conversion KML vers WLD d’informations de géoréférencement pour Eiffage-Dynae – 2017
 - Spécifications et développement d'une application web de recherche d'itinéraires pour piétons handicapés pour la CASQY / le CEREMH, sous PHP / OpenLayers / MapServer / Postgis – 2011-2014
