@@ -6,23 +6,24 @@ Expert en Systèmes d'Information Géographique et en Technologies de l'Informat
 ## Expérience Professionnelle
 
 ### Depuis 1999 :
-Créateur et exploitant de l'entreprise SIGéal
-    - Consultant en Systèmes d'Information Géographique – Développeur, Géomaticien, Formateur
+Créateur et exploitant de l'entreprise SIGéal  
+- Consultant en Systèmes d'Information Géographique – Développeur, Géomaticien, Formateur
+
 ### De 1991 à 1999 :
-Ingénieur dans un bureau d'étude d'ingénierie des déplacements (EGIS, ex-Scetauroute ISIS)
-    - Ingénieur d'étude puis ingénieur d'affaires
-    - Responsable informatique de l'agence de Bordeaux
-    - Correspondant qualité du site de Bordeaux (certification ISO 9000)
+Ingénieur dans un bureau d'étude d'ingénierie des déplacements (EGIS, ex-Scetauroute ISIS)  
+- Ingénieur d'étude puis ingénieur d'affaires
+- Responsable informatique de l'agence de Bordeaux
+- Correspondant qualité du site de Bordeaux (certification ISO 9000)
 
 ## Formation initiale
 
 ### De 1987 à 1990 : Université de Technologie de Compiègne (UTC) :
-Diplôme d'Ingénieur de l'Université de Technologie de Compiègne
-    - Génie Mécanique - Design Industriel
+Diplôme d'Ingénieur de l'Université de Technologie de Compiègne  
+- Génie Mécanique - Design Industriel
 
 ### De 1984 à 1986 : Institut Universitaire de technologie d'Angoulême (IUT de Poitiers) :
-Diplôme Universitaire de Technologie
-    - Génie Mécanique et Productique
+Diplôme Universitaire de Technologie  
+- Génie Mécanique et Productique
 
 ## Compétences Additionnelles
 
