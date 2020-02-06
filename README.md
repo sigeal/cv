@@ -58,6 +58,7 @@ Diplôme Universitaire de Technologie
 ## Références Récentes
 
 ### Spécifications et développement d'applications sur Systèmes d'Information Géographiques :
+- Migration d’une interface de traitement spatial de GeoMap vers NetTopologySuite, pour SOMEI, sous C#-Oracle -  *2019-2020*
 - Développement d'un service de génération de cartes pdf pour des DICT, sous QGIS, pour la société SOMEI - *2019*
 - Spécifications et développement d'une application de cartographie d’enquêtes origine/destination, sous ArcView/MapInfo-Access et QGIS-SpatiaLite, pour de nombreuses agglomérations, en partenariat avec la société Test-SA – *2002-2019*
 - Application cartographique de gestion des comptages de trafic routier sous QGIS pour Valence-Romans Déplacement – *2017-2018*
@@ -65,6 +66,7 @@ Diplôme Universitaire de Technologie
 - Spécifications et développement d'une application web de recherche d'itinéraires pour piétons handicapés pour la CASQY / le CEREMH, sous PHP / OpenLayers / MapServer / Postgis – *2011-2014*
 
 ### Réalisation d'expertises et d'assistance technique pour la cartographie :
+- Assistance technique pour la mise en place du SIG QGIS et d’un WebSIG associé, pour VINCI-LISEA *2020*
 - Assistance technique pour la mise en œuvre d'un outil QGIS de suivi d'OPAH, pour Engineering Territoires et Habitat - *2019*
 - Assistance technique pour la détermination du potentiel écologique foncier de parcelles appartenant à SNCF Réseau, sous QGIS, pour Améten – *2018*
 - Restitution SIG du diagnostic sur l'accessibilité de la voirie, des aménagements et des espaces publics, sous ArcGis, pour plusieurs agglomérations, en partenariat avec la société Agoracité – *2009-2017*
@@ -72,6 +74,7 @@ Diplôme Universitaire de Technologie
 - Expertise des analyses et des bases de données géographiques dans le cadre du contrôle extérieur des études d'environnement de la LGV Rhin-Rhône branche sud, pour Réseau Ferré de France, en partenariat avec la société Louis Berger Consultants – *2007*
 
 ### Élaboration de cartographie numérique :
+- Intégration des données de récolement de la LGV Tours-Bordeaux d’une base de données Oracle Spatial vers le format Geopackage, pour VINCI-LISEA, sous QGIS 3.4 - *2019*
 - Production, sous Pix4D d’un orthophotoplan à partir d’images thermographiques aériennes, afin de détecter les anomalies d’un réseau de chaleur, pour Eiffage-Dynae – *2018*
 - Conversion de fichiers cartographiques dans le cadre de la DPAC A65, pour CdC Biodiversité – *2016*
 - Cartographie des services à la petite enfance, sous QGIS/MapInfo/ArcGis pour de nombreuses collectivités, en partenariat avec la SCIC Cerise – *2009-2015*
@@ -89,6 +92,6 @@ Diplôme Universitaire de Technologie
 - Développement d’une application Intranet de suivi opérationnel de la Formation et des Aptitudes (SOFA), sous Access puis migration sous Asp/VBScript/SQL Server, pour la Société des Autoroutes Paris-Rhin-Rhône – *2003-2004*
 
 ### Animation de formations :
-- Animation de formations initiation et perfectionnement aux SIG (QGIS, MapInfo, ArcGis, PostGis) pour de nombreuses collectivités et entreprises, en partenariat avec divers organismes de formation – *2004-2019*
+- Animation de formations initiation et perfectionnement aux SIG (QGIS, MapInfo, ArcGis, PostGis) pour de nombreuses collectivités et entreprises, en partenariat avec divers organismes de formation – *2004-2020*
 - Intervention sur la programmation Python objet à la Rural Web Factory d'Aubeterre sur Dronne – *2019*
 - Animation du module SIG (MapInfo) dans le cadre de la Licence Professionnelle Urbanisme, Environnement et Géomatique du lycée Dorian (Paris) – *2009-2015*
