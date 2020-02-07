@@ -58,7 +58,7 @@ Diplôme Universitaire de Technologie
 ## Références Récentes
 
 ### Spécifications et développement d'applications sur Systèmes d'Information Géographiques :
-- Migration d’une interface de traitement spatial de GeoMap vers NetTopologySuite, pour SOMEI, sous C#-Oracle - *2019-2020*
+- Migration d’une interface de traitement spatial de GeoMedia vers NetTopologySuite, pour SOMEI, sous C#-Oracle - *2019-2020*
 - Développement d'un service de génération de cartes pdf pour des DICT, sous QGIS, pour la société SOMEI - *2019*
 - Spécifications et développement d'une application de cartographie d’enquêtes origine/destination, sous ArcView/MapInfo-Access et QGIS-SpatiaLite, pour de nombreuses agglomérations, en partenariat avec la société Test-SA – *2002-2019*
 - Application cartographique de gestion des comptages de trafic routier sous QGIS pour Valence-Romans Déplacement – *2017-2018*
