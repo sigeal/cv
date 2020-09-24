@@ -58,6 +58,8 @@ Diplôme Universitaire de Technologie
 ## Références Récentes
 
 ### Spécifications et développement d'applications sur Systèmes d'Information Géographiques :
+- Développement d'une extension QGIS de génération de synoptiques, sous QGIS 3.10, pour VINCI-LISEA-MESEA - *2020*
+- Développement d'un projet QGIS de suivi pour l'OPAH-RU de Marignane, pour Engineering Territoires et Habitat - *2020*
 - Migration d’une interface de traitement spatial de GeoMedia vers NetTopologySuite, pour SOMEI, sous C#-Oracle - *2019-2020*
 - Développement d'un service de génération de cartes pdf pour des DICT, sous QGIS, pour la société SOMEI - *2019*
 - Spécifications et développement d'une application de cartographie d’enquêtes origine/destination, sous ArcView/MapInfo-Access et QGIS-SpatiaLite, pour de nombreuses agglomérations, en partenariat avec la société Test-SA – *2002-2019*
@@ -67,13 +69,14 @@ Diplôme Universitaire de Technologie
 
 ### Réalisation d'expertises et d'assistance technique pour la cartographie :
 - Assistance technique pour la mise en place du SIG QGIS et d’un WebSIG associé, pour VINCI-LISEA - *2020*
-- Assistance technique pour la mise en œuvre d'un outil QGIS de suivi d'OPAH, pour Engineering Territoires et Habitat - *2019*
+- Assistance technique pour la mise en œuvre d'un outil QGIS de suivi de l'OPAH de Saint-Maximin la Sainte Baume, pour Engineering Territoires et Habitat - *2019*
 - Assistance technique pour la détermination du potentiel écologique foncier de parcelles appartenant à SNCF Réseau, sous QGIS, pour Améten – *2018*
 - Restitution SIG du diagnostic sur l'accessibilité de la voirie, des aménagements et des espaces publics, sous ArcGis, pour plusieurs agglomérations, en partenariat avec la société Agoracité – *2009-2017*
 - Assistance technique pour la consolidation SIG des captages d'eau potable et de leurs périmètres de protection, sous ArcGis, pour l'ARS Lorraine – *2009-2010*
 - Expertise des analyses et des bases de données géographiques dans le cadre du contrôle extérieur des études d'environnement de la LGV Rhin-Rhône branche sud, pour Réseau Ferré de France, en partenariat avec la société Louis Berger Consultants – *2007*
 
 ### Élaboration de cartographie numérique :
+- Conception de synoptiques de visualisation de données ferroviaires, sous QGIS 3.4, pour VINCI-LISEA-MESEA - *2020*
 - Intégration des données de récolement de la LGV Tours-Bordeaux d’une base de données Oracle Spatial vers le format Geopackage, pour VINCI-LISEA, sous QGIS 3.4 - *2019*
 - Production, sous Pix4D d’un orthophotoplan à partir d’images thermographiques aériennes, afin de détecter les anomalies d’un réseau de chaleur, pour Eiffage-Dynae – *2018*
 - Conversion de fichiers cartographiques dans le cadre de la DPAC A65, pour CdC Biodiversité – *2016*
