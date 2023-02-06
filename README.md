@@ -58,9 +58,9 @@ Diplôme Universitaire de Technologie
 ## Références Récentes
 
 ### Spécifications et développement d'applications sur Systèmes d'Information Géographiques :
-    • Évaluation de l’impact du choix de la plate-forme SIG de MESEA sur LISEA, pour LISEA – *2022*
-    • Élaboration de cartographies dans le cadre des OPAH de Bagnols sur Cèze, Périgord-Ribéracois, Bayonne, Casteljaloux, Le Réolais, Le Castellet pour SEGAT – *2021-2022*
-    • Développement d'une extension QGIS de génération de synoptiques, sous QGIS 3.10, pour VINCI-LISEA-MESEA – *2020*
+Évaluation de l’impact du choix de la plate-forme SIG de MESEA sur LISEA, pour LISEA – *2022*
+Élaboration de cartographies dans le cadre des OPAH de Bagnols sur Cèze, Périgord-Ribéracois, Bayonne, Casteljaloux, Le Réolais, Le Castellet pour SEGAT – *2021-2022*
+Développement d'une extension QGIS de génération de synoptiques, sous QGIS 3.10, pour VINCI-LISEA-MESEA – *2020*
     • Développement d'un projet QGIS de suivi pour les OPAH-RU de Marignane, Marseille Le Canet, Noailles, Euromed, pour Engineering Territoires et Habitat – *2020-2022*
     • Migration d’une interface de traitement spatial (API) de GeoMap vers NetTopologySuite en C#-Oracle, pour SOMEI – *2019*
     • Spécifications et développement d'une application de cartographie d’enquêtes origine/destination, sous ArcView/MapInfo-Access et QGIS-SQLite, pour de nombreuses agglomérations, en partenariat avec la société Test-SA – *2002-2023*
